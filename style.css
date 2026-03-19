@@ -35,6 +35,7 @@ header span {
     /* 📍 Свойства flexbox для размещения container-a вертикально по центру */
     flex-direction: column;
     align-content: center;
+    align-items: center;
 }
 
 .main-section .wrapper {
