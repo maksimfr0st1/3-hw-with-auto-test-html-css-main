@@ -138,6 +138,7 @@ select:hover,
     min-width: 720px;
     display: flex;
     flex-direction: column;
+    gap: 20px;
 }
 
 .books-list {
