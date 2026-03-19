@@ -45,7 +45,7 @@ header span {
 
 .text-wrapper {
     /* 📍 Cвойство для ограничения ширины блока с текстом в первой секции */
-    width: 425px;
+    max-width: 425px;
 }
 
 .main-title {
